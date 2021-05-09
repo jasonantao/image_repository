@@ -3,7 +3,7 @@
 
   
 
-## How To Setup
+## How To Get it Running on Your Machine
 
 My image repository including tests is created to be versatile, useful, and with the user's actions at the forefront of its design. 
 
@@ -32,20 +32,32 @@ You can do a bunch of things on my project, but of course it serves the core fun
 
 ![image3](https://github.com/jasonantao/image_repository/blob/master/demo_screenshots/Screen%20Shot%202021-05-09%20at%207.35.52%20PM.png)
 
+### Upload a New Image:
+
+![image4](https://github.com/jasonantao/image_repository/blob/master/demo_screenshots/Screen%20Shot%202021-05-09%20at%207.36.45%20PM.png)
+
 ### View & Manage Just Your Images:
+
+![image5](https://github.com/jasonantao/image_repository/blob/master/demo_screenshots/Screen%20Shot%202021-05-09%20at%207.36.51%20PM.png)
+
+![image6](https://github.com/jasonantao/image_repository/blob/master/demo_screenshots/Screen%20Shot%202021-05-09%20at%207.36.57%20PM.png)
 
 ### Search for Image by Filename or Descriptive Contents
 
-### Upload a New Image:
-
-### Edit Your Existing Image & Entry Info:
+![image7](https://github.com/jasonantao/image_repository/blob/master/demo_screenshots/Screen%20Shot%202021-05-09%20at%207.37.30%20PM.png)
 
 ### Download Another User's Image:
 
+![image8](https://github.com/jasonantao/image_repository/blob/master/demo_screenshots/Screen%20Shot%202021-05-09%20at%207.37.43%20PM.png)
+
 ### Manage Your Account:
+
+![image9](https://github.com/jasonantao/image_repository/blob/master/demo_screenshots/Screen%20Shot%202021-05-09%20at%207.37.51%20PM.png)
 
 ### Safely Logout:
 
+![image10](https://github.com/jasonantao/image_repository/blob/master/demo_screenshots/Screen%20Shot%202021-05-09%20at%207.38.10%20PM.png)
+
 ### Return Home at Any Time:
 
-
+![image11](https://github.com/jasonantao/image_repository/blob/master/demo_screenshots/Screen%20Shot%202021-05-09%20at%207.38.04%20PM.png)
