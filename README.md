@@ -18,7 +18,7 @@ To run this on your computer, do the following:
 
 Note: If the  `python manage.py runserver ` command yields an error, try creating a virtual environment first and making sure you are running python and have run `pip install`. This step is a troubleshooting step so you probably won't have to do this - but everyone's system is setup different so I thought I'd mention it to save you time. 
 
-## How It Works
+## How It Works - The Main Features to Look Out For (Below)
 
 You can do a bunch of things on my project, but of course it serves the core functionality of being an image repository.
 
