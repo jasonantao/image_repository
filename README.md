@@ -26,7 +26,11 @@ You can do a bunch of things on my project, but of course it serves the core fun
 
 ![image1](https://github.com/jasonantao/image_repository/blob/master/demo_screenshots/Screen%20Shot%202021-05-09%20at%207.34.58%20PM.png)
 
+![image2](https://github.com/jasonantao/image_repository/blob/master/demo_screenshots/Screen%20Shot%202021-05-09%20at%207.35.08%20PM.png)
+
 ### View All Public Images in the Repository:
+
+![image3](https://github.com/jasonantao/image_repository/blob/master/demo_screenshots/Screen%20Shot%202021-05-09%20at%207.35.52%20PM.png)
 
 ### View & Manage Just Your Images:
 
