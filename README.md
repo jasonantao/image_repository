@@ -28,6 +28,8 @@ You can do a bunch of things on my project, but of course it serves the core fun
 
 ### View & Manage Just Your Images:
 
+### Search for Image by Filename or Descriptive Contents
+
 ### Upload a New Image:
 
 ### Edit Your Existing Image & Entry Info:
