@@ -13,6 +13,7 @@ To run this on your computer, do the following:
 
 - Clone my repository
 - In the terminal, from the root of the project folder, run `python manage.py runserver `
+  - If the above step doesn't start the server right away, try running `source myproject/bin/activate` first then run `python manage.py runserver `
 - Go to `http://127.0.0.1:8000/` on your browser, like Chrome, to view my image repository!
 
 Note: If the  `python manage.py runserver ` command yields an error, try creating a virtual environment first and making sure you are running python and have run `pip install`. This step is a troubleshooting step so you probably won't have to do this - but everyone's system is setup different so I thought I'd mention it to save you time. 

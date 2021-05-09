@@ -1,11 +1,11 @@
 {% extends "blog/base.html" %}
 {% load crispy_forms_tags %}
 {% block content %}
-    <div class="content-section bg-info">
+    <div class="content-section bg-light">
         <form method="POST">
             {% csrf_token %}
             <fieldset class="form-group" >
-                <legend class="border-bottom mb-4 bg-success" style="color: white;">Join Today</legend>
+                <legend class="border-bottom mb-4 bg-light" style="color: rgb(0, 0, 0);">Join the Image Repository</legend>
                 {{ form|crispy }}
             </fieldset>
             <div class="form-group">
