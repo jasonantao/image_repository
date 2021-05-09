@@ -24,6 +24,8 @@ You can do a bunch of things on my project, but of course it serves the core fun
 
 ### Login or Create an Account:
 
+https://github.com/jasonantao/image_repository/blob/master/demo_screenshots/Screen%20Shot%202021-05-09%20at%207.34.58%20PM.png
+
 ### View All Public Images in the Repository:
 
 ### View & Manage Just Your Images:
